@@ -45,7 +45,7 @@
         }
 
         [DisplayName("Created Date")]
-        public DateTime? DateCreated { get; }
+        public DateTime? DateCreated { get; set; }
 
     }
 }
