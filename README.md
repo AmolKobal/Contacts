@@ -22,7 +22,7 @@ SQL Server 2012
 
 1. Download project.
 2. Create database schema and objects by executing `DBScript.sql`.
-3. Update `ContactConnection` value to point to your database under `connectionStrings` section in the Project's **[web.config](/ContactDemo/web.config)**.
+3. Update `ContactConnection` value to point to your database under `connectionStrings` section in the Project's **[web.config](/ContactDemo/Web.config)**.
 
 
 ## Authors
