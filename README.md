@@ -21,7 +21,8 @@ SQL Server 2012
 ### Usage
 ```
 Download project
-Edit 'connectionStrings' section of project web.config. Update 'connectionString' value to your database. 
+Create database schema and objects by executing `DBScript.sql`
+Update `connectionStrings` section of project web.config. Update `ContactConnection` connectionString value to point to your database. 
 ```
 
 ## Authors
