@@ -1,5 +1,5 @@
 # Contacts
-`Contact Management System` - System maintains Contact and related information.
+Contacts is `Contact Management System` to maintains Contact and related information.
 
 Application has below functionality
 - Add New Contact
@@ -19,14 +19,14 @@ SQL Server 2012
 ```
 
 ### Usage
-```
-Download project
-Create database schema and objects by executing `DBScript.sql`
-Update `connectionStrings` section of project web.config. Update `ContactConnection` connectionString value to point to your database. 
-```
+
+1. Download project.
+2. Create database schema and objects by executing `DBScript.sql`.
+3. Update `ContactConnection` value to point to your database under `connectionStrings` section in the Project's **web.config**.
+
 
 ## Authors
 Amol Kobal
 
 ## License
- Contacts is licensed under the MIT License - [License](License.txt)
+ Repository is licensed under the MIT License - [License](License.txt)
