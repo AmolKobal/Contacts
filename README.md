@@ -8,6 +8,8 @@ Application has below functionality
 - Delete Contact details
 - View Details of a Contact
 
+Application is build using ASP.NET MVC (.NET Framework 4.5). Uses SQL Server as back-end database.
+
 ## Getting Started
 
 ### Technologies pre-requisite
